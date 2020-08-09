@@ -3,7 +3,7 @@
 ## 功能介绍
 
 1. 基于fs-extra@^9
-2. 继承所有fs-extra方法 
+2. 继承所有fs-extra方法 <https://www.npmjs.com/package/fs-extra>
 3. 拓展 isDirectory 与 isDirectorySync 方法 
 4. 所有方法默认返回 promise ,如果方法名以sync结尾则同步返回
 

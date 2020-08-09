@@ -1,6 +1,6 @@
 {
     "name": "fs-extra-new",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "fs-extra-new",
     "main": "build/index.js",
     "scripts": {
