@@ -1,6 +1,6 @@
 {
     "name": "fs-extra-new",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "fs-extra-new",
     "main": "build/index.js",
     "scripts": {
@@ -40,7 +40,7 @@
         "hooks": {"pre-commit": "npm run lint"}
     },
     "author": "hubiqing",
-    "repository": "https://github.com/githbq/hbq-fs-extra-new.git",
+    "repository": "https://github.com/githbq/fs-extra-new.git",
     "engines": {"node": ">=8"},
     "license": "MIT"
 }
