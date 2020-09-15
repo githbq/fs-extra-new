@@ -3,7 +3,7 @@ import * as  fsExtra from 'fs-extra'
 
 const fs = {
     ...fsExtra,
-    isDirectory: async (path, callback) => {
+    isDirectory: async (path) => {
         const stat = await fs.stat(path)
         return stat.isDirectory()
     },
